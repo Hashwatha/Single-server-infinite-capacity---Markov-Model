@@ -62,5 +62,4 @@ print("---------------------------------------------------------------")
 ![alt text](<Screenshot 2024-03-30 205044.png>)
 
 ## Result :
-
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
