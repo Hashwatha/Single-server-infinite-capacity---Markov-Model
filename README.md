@@ -1,5 +1,9 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 
+Developed by : M.Hashwatha
+
+Register number : 212223240051
+
 ## Date :
 
 ## Aim :
